@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0bdcc5d5f02d1848a4de86e08c90203
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SlotsParent: {instanceID: 0}
+  - OriginSlot: {fileID: 1895970567370288, guid: a3dcf7cf76fe1904a9d4e296f29d06b9,
+      type: 2}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

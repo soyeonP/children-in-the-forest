@@ -8,6 +8,10 @@ TagManager:
   - topPoint
   - rightPoint
   - leftPoint
+  - obj
+  - DragImg
+  - Inventory
+  - Characters
   layers:
   - Default
   - TransparentFX
@@ -42,11 +46,11 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: map
     uniqueID: 2071959243
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
   - name: units
     uniqueID: 1735895817
