@@ -8,6 +8,8 @@ TagManager:
   - topPoint
   - rightPoint
   - leftPoint
+  - obj
+  - DragImg
   layers:
   - Default
   - TransparentFX
@@ -50,4 +52,10 @@ TagManager:
     locked: 0
   - name: units
     uniqueID: 1735895817
+    locked: 0
+  - name: Objects
+    uniqueID: 593793521
+    locked: 0
+  - name: UI
+    uniqueID: 2636989443
     locked: 0
