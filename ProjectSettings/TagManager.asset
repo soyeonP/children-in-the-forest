@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - Group
+  - topPoint
+  - rightPoint
+  - leftPoint
+  - obj
+  - DragImg
+>>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   layers:
   - Default
   - TransparentFX
@@ -13,9 +23,15 @@ TagManager:
   - UI
   - 
   - 
+<<<<<<< HEAD
   - 
   - 
   - 
+=======
+  - Map
+  - Units
+  - Items
+>>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   - 
   - 
   - 
@@ -41,6 +57,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: 0
     uniqueID: 699885115
     locked: 0
@@ -49,4 +66,17 @@ TagManager:
     locked: 0
   - name: 2
     uniqueID: 933182065
+=======
+  - name: map
+    uniqueID: 2071959243
+    locked: 0
+  - name: units
+    uniqueID: 1735895817
+    locked: 0
+  - name: Objects
+    uniqueID: 593793521
+    locked: 0
+  - name: UI
+    uniqueID: 2636989443
+>>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
     locked: 0

@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/dasom part.unity
+=======
+- path: Assets/Scenes/SampleScene.unity
+>>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   isLoaded: 1
   isActive: 1

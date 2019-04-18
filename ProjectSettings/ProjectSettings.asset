@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
+<<<<<<< HEAD
   productGUID: 4268ef9096898cd4889a10cad71cfa14
+=======
+  productGUID: d7d980af3c6c8da4faf3fbba44c1b261
+>>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: Chilly Bean
+=======
+  productName: TestMoving
+>>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -105,7 +113,16 @@ PlayerSettings:
   xboxOneLoggingLevel: 1
   xboxOneDisableEsram: 0
   xboxOnePresentImmediateThreshold: 0
+<<<<<<< HEAD
   switchQueueCommandMemory: 0
+=======
+  switchQueueCommandMemory: 1048576
+  switchQueueControlMemory: 16384
+  switchQueueComputeMemory: 262144
+  switchNVNShaderPoolsGranularity: 33554432
+  switchNVNDefaultPoolsGranularity: 16777216
+  switchNVNOtherPoolsGranularity: 16777216
+>>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   vulkanEnableSetSRGBWrite: 0
   m_SupportedAspectRatios:
     4:3: 1
@@ -389,6 +406,10 @@ PlayerSettings:
   switchAllowsRuntimeAddOnContentInstall: 0
   switchDataLossConfirmation: 0
   switchUserAccountLockEnabled: 0
+<<<<<<< HEAD
+=======
+  switchSystemResourceMemory: 16777216
+>>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   switchSupportedNpadStyles: 3
   switchNativeFsCacheSize: 32
   switchIsHoldTypeHorizontal: 0
@@ -580,10 +601,17 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
+<<<<<<< HEAD
   cloudProjectId: ff080082-a140-4dc1-8895-790fe3c3cf90
   framebufferDepthMemorylessMode: 0
   projectName: Chilly Bean (1)
   organizationId: summer_d_kim
+=======
+  cloudProjectId: 8069f4b2-0aa8-4b9b-88b9-00af9973b89b
+  framebufferDepthMemorylessMode: 0
+  projectName: TestMoving (1)
+  organizationId: hithat
+>>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
