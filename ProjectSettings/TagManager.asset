@@ -3,17 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-<<<<<<< HEAD
-  tags: []
-=======
   tags:
-  - Group
-  - topPoint
-  - rightPoint
   - leftPoint
-  - obj
+  - Group
+  - rightPoint
+  - topPoint
+  - Object
+  - player
+  - enemy
   - DragImg
->>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   layers:
   - Default
   - TransparentFX
@@ -23,15 +21,9 @@ TagManager:
   - UI
   - 
   - 
-<<<<<<< HEAD
   - 
   - 
   - 
-=======
-  - Map
-  - Units
-  - Items
->>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
   - 
   - 
   - 
@@ -54,29 +46,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3671068571
+    locked: 0
+  - name: Object
+    uniqueID: 3348064857
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< HEAD
-  - name: 0
-    uniqueID: 699885115
+  - name: Player
+    uniqueID: 2722861197
     locked: 0
-  - name: 1
-    uniqueID: 2561639085
-    locked: 0
-  - name: 2
-    uniqueID: 933182065
-=======
-  - name: map
-    uniqueID: 2071959243
-    locked: 0
-  - name: units
-    uniqueID: 1735895817
-    locked: 0
-  - name: Objects
-    uniqueID: 593793521
+  - name: Enemy
+    uniqueID: 2123421667
     locked: 0
   - name: UI
-    uniqueID: 2636989443
->>>>>>> 31e6a1ea586a3415b85593b455e2f6d57416555f
+    uniqueID: 284677141
     locked: 0
